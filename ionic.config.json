@@ -1,0 +1,7 @@
+{
+  "name": "ionicSegment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
